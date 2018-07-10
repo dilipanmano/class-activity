@@ -1,0 +1,12 @@
+body{
+text-align: center;
+}
+
+img{
+border-radius: 50%;
+}
+
+.bla_n_whi{
+-webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+}
